@@ -9,7 +9,7 @@
 [Autores](#autores)  
 
 # Cafeteria Delícia
-![Capa_cafeteria](logocafeteria.jpeg)
+![logo_cafeteria](logocafeteria.jpeg)
 # Intenção da nossa empresa
 
 Cafeteria Delícia, onde os amantes de café podem descobrir nossas deliciosas opções e aprender mais sobre nossa localização e presença nas redes sociais.
