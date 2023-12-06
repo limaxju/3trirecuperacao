@@ -1,5 +1,6 @@
 # Indice
-[Cafeteria Delicia](#cafeteria_delicia)  
+[Cafeteria Delicia](#cafeteria-delícia)
+[Intenção da nossa empresa](#cafeteria_delicia)  
 [Descrição](#descrição)  
 [Introduçao](#introduçao)  
 [Funcionalidade](#funcionalidade)  
@@ -8,8 +9,10 @@
 [Autores](#autores)  
 
 # Cafeteria Delícia
+![Capa_cafeteria](logocafeteria.jpeg)
+# Intenção da nossa empresa
 
-Este é o código-fonte para o site da Cafeteria Delícia, onde os amantes de café podem descobrir nossas deliciosas opções e aprender mais sobre nossa localização e presença nas redes sociais.
+Cafeteria Delícia, onde os amantes de café podem descobrir nossas deliciosas opções e aprender mais sobre nossa localização e presença nas redes sociais.
 
 ## Descrição
 Em resumo, uma Landing Page é uma ferramenta valiosa para negócios e profissionais de marketing, proporcionando uma abordagem focada e direta para envolver e converter o público-alvo.
